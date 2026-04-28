@@ -1,0 +1,33 @@
+{
+    "version": 1,
+    "games": [
+        {
+            "id": "alias",
+            "name": "Alias",
+            "description": "Пояснюйте християнські терміни друзям на швидкість!",
+            "icon": "icons/alias_christian_game.png",
+            "path": "alias_christian_game"
+        },
+        {
+            "id": "brain_blitz",
+            "name": "Brain Blitz",
+            "description": "Обирай одну правильну відповідь!",
+            "icon": "icons/brain_blitz.png",
+            "path": "brain_blitz"
+        },
+        {
+            "id": "say_3_bible",
+            "name": "Назви 3: Біблія",
+            "description": "Назви 3 терміна по слову на екрані",
+            "icon": "icons/say_3_bible.png",
+            "path": "say_3_bible"
+        },
+        {
+            "id": "spy",
+            "name": "Шпигун",
+            "description": "Один гравець — шпигун, інші — агенти. Шукайте шпигуна, не видаючи слово!",
+            "icon": "icons/spy.png",
+            "path": "spy"
+        }
+    ]
+}

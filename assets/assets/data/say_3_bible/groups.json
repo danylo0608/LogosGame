@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "groups": [
+        {
+            "id": "christians",
+            "name": "Християнські",
+            "file": "christians.json"
+        }
+    ]
+}
